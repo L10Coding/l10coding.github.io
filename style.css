@@ -268,7 +268,7 @@ color: var(--myblue);
   color: #999;
   list-style: none;
   padding: .5rem;
-  text-indent: -1rem;
+  text-indent: 1rem;
 }
 
 .about .row .content button {
