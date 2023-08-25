@@ -397,6 +397,9 @@ color: var(--myblue);
   background: #f9f9f9;
 }
 
+.nunu {
+  background: #fff;
+
 .review .box-container {
   display: flex;
   justify-content: center;
