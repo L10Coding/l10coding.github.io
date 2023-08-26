@@ -229,6 +229,10 @@ header .fa-bars {
   color: var(--myblue);
 }
 
+.about {
+  padding: 0 0 5rem 0;
+}
+
 .about .row {
   display: flex;
   justify-content: center;
