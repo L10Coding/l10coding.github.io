@@ -696,6 +696,7 @@ header .fa-times {
 
   .about .row .content {
     padding: 0 2.5rem;
+    text-align: center;
   }
 
   .course .box-container {
